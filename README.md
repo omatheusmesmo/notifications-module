@@ -41,8 +41,7 @@ src/
                   │   └── SleepUtil.java
                   ├── Main.java
                   └── NotificationService.java
-      └── resources/
-          └── application.properties
+      └── resources
 ```
 
 ## Key Components
