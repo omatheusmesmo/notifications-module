@@ -2,8 +2,7 @@
 
 This project implements a **Notification Module** that demonstrates the use of **Factory Method** and **Strategy** design patterns. It provides a simple system to handle different types of notifications (Email, WhatsApp, Push Notification) using these patterns.
 
-This project is part of the index repository design-patterns-java, which serves as an index for all related projects, each demonstrating practical implementations of specific design patterns through emulated real-world scenarios.
-
+This project is part of the index repository [design-patterns-java](https://github.com/omatheusmesmo/design-patterns-java), which serves as an index for all related projects, each demonstrating practical implementations of specific design patterns through emulated real-world scenarios, not actual projects.
 ## Design Patterns Used
 
 ### 1. **Factory Method Pattern**
